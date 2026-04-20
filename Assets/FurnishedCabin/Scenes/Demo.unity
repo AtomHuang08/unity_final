@@ -4784,37 +4784,37 @@ PrefabInstance:
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.869354
+      value: 4.570888
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.2221999
+      value: 1.6132
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.7531744
+      value: 7.0497766
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.9512837
+      value: -0.557586
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.21076971
+      value: -0.107071556
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.22072108
+      value: 0.8064942
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.043791246
+      value: -0.16492674
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701900, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
@@ -4834,7 +4834,7 @@ PrefabInstance:
     - target: {fileID: 2271036430514701937, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
       propertyPath: field of view
-      value: 40
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 2271036430514701937, guid: d512ebcdf02532446b58dc05fc0f10d2,
         type: 3}
